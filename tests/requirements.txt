@@ -1,0 +1,5 @@
+# kelly_position_sizer.py itself needs nothing beyond the Python standard library.
+# These are only needed for exness_client.py and ticks_stream.py:
+requests>=2.31
+cryptography>=42.0
+websockets>=12.0
